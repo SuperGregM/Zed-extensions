@@ -402,6 +402,10 @@
 	path = extensions/curry
 	url = https://github.com/fwcd/zed-curry.git
 
+[submodule "extensions/cursor-dark-theme"]
+	path = extensions/cursor-dark-theme
+	url = https://github.com/loosheng/zed-cursor-dark-theme.git
+
 [submodule "extensions/cyan-light-theme"]
 	path = extensions/cyan-light-theme
 	url = https://github.com/biaqat/cyan-light-theme-zed.git
@@ -677,6 +681,10 @@
 [submodule "extensions/gleam-theme"]
 	path = extensions/gleam-theme
 	url = https://github.com/DanielleMaywood/gleam-theme-zed
+
+[submodule "extensions/go-snippets"]
+	path = extensions/go-snippets
+	url = https://github.com/ayberkgezer/go-zed-snippets
 
 [submodule "extensions/golangci-lint"]
 	path = extensions/golangci-lint
@@ -1006,6 +1014,10 @@
 	path = extensions/maple-theme
 	url = https://github.com/bushuai/zed-maple
 
+[submodule "extensions/marble"]
+	path = extensions/marble
+	url = https://github.com/TeenCoder159/marble-theme.git
+
 [submodule "extensions/mariana-theme"]
 	path = extensions/mariana-theme
 	url = https://github.com/biaqat/mariana-theme-zed.git
@@ -1133,6 +1145,10 @@
 [submodule "extensions/monospace-theme"]
 	path = extensions/monospace-theme
 	url = https://github.com/Abhinav5383/zed-monospace-theme.git
+
+[submodule "extensions/moonbit"]
+	path = extensions/moonbit
+	url = https://github.com/quirk-lab/zed-moonbit.git
 
 [submodule "extensions/moonlight"]
 	path = extensions/moonlight
@@ -1485,6 +1501,10 @@
 [submodule "extensions/prisma"]
 	path = extensions/prisma
 	url = https://github.com/zed-extensions/prisma.git
+
+[submodule "extensions/prisma-mcp"]
+	path = extensions/prisma-mcp
+	url = https://github.com/aqrln/prisma-mcp-zed
 
 [submodule "extensions/prolog"]
 	path = extensions/prolog
@@ -2065,6 +2085,10 @@
 [submodule "extensions/xcode-themes"]
 	path = extensions/xcode-themes
 	url = https://github.com/skarline/zed-xcode-themes.git
+
+[submodule "extensions/xdr-naive"]
+	path = extensions/xdr-naive
+	url = https://github.com/algebnaly/xdr.zed.git
 
 [submodule "extensions/xml"]
 	path = extensions/xml
